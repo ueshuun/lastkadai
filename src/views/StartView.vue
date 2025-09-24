@@ -1,7 +1,7 @@
 <template>
   <v-container fluid class="pa-0">
    <div
-  class="d-flex flex-column align-center justify-center" :style="{backgroundImage: 'url(https://images.unsplash.com/photo-1507525428034-b723cf961d3e)', backgroundSize: 'cover', backgroundPosition: 'center', height: '500px', paddingTop: '40px'}"
+  class="d-flex flex-column align-center justify-center" :style="{backgroundImage: 'url(https://images.unsplash.com/photo-1507525428034-b723cf961d3e)', backgroundSize: 'cover', backgroundPosition: 'center', height: '400px', paddingTop: '40px'}"
 >
       <h2 style="color: black;" class="text-shadow-lg mb-8">旅の予定を立てよう!!</h2>
 
