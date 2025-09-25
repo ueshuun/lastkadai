@@ -1,6 +1,6 @@
 <template>
   <v-container>
-    <v-card class="pa-6" outlined>
+    <v-card class="pa-4" outlined max-width="900px" style="margin: auto;">
          <v-card-title class="text-h6 font-weight-bold justify-center align-center">
         <v-icon color="#00bcd4">mdi-snowflake</v-icon>北海道観光<v-icon color="#00bcd4">mdi-snowflake</v-icon>
       </v-card-title>
@@ -10,38 +10,43 @@
           <v-img
             src="https://as1.ftcdn.net/v2/jpg/03/09/06/72/1000_F_309067262_lPhLvRrf0q3l99lKahpD0rFpb66m6kXi.jpg"
             contain
-            height="120"
-            class="mb-4"
+            height="100"
+            class="mb-2"
           />
           <p>札幌駅（JRタワー）</p>
           <v-img
             src="https://t4.ftcdn.net/jpg/01/48/65/09/240_F_148650908_rxpaBm2IBuGJM6aIAXTBTiPxZUc1B1Qs.jpg"
             contain
-            height="120"
+            height="100"
+            class="mb-2"
           />
           <p>ジンギスカン</p>
           <v-img
             src="https://t3.ftcdn.net/jpg/03/81/43/16/240_F_381431626_NqVUha18KcO4MGXIyiPAs5QDeVjeL4tZ.jpg"
             contain
-            height="120"
+            height="100"
+            class="mb-2"
           />
           <p>小樽運河</p>
           <v-img
             src="https://t4.ftcdn.net/jpg/04/75/86/79/240_F_475867910_6dxntoKJKn23PpWJsv95ycTcur1We4Ox.jpg"
             contain
-            height="120"
+            height="100"
+            class="mb-2"
           />
           <p>ニッカウヰスキー蒸溜所</p>
           <v-img
             src="https://t4.ftcdn.net/jpg/02/91/38/97/240_F_291389777_cuGvQhUPXd7BC6vJd7L4pkKbjPoImTeF.jpg"
             contain
-            height="120"
+            height="100"
+            class="mb-2"
           />
           <p>富良野</p>
           <v-img
             src="https://t4.ftcdn.net/jpg/06/62/64/81/240_F_662648186_DaCvDFhUlsOYHCe06BfDphIFobZczd9X.jpg"
             contain
-            height="120"
+            height="100"
+            class="mb-2"
           />
         <p>美瑛の青い池</p>
         </v-col>
@@ -91,38 +96,43 @@
           <v-img
             src="https://t3.ftcdn.net/jpg/04/87/46/56/240_F_487465674_XrpA9WBVOiYqkNxr9jA3m5zBZC30ZRPe.jpg"
             contain
-            height="120"
-            class="mb-4"
+            height="100"
+            class="mb-2"
           />
           <p> 札幌テレビ塔</p>
           <v-img
             src="https://t4.ftcdn.net/jpg/06/80/33/51/240_F_680335119_wt865xC5Rdf2m2HIKqRNsv48VbzgbItW.jpg"
             contain
-            height="120"
+            height="100"
+            class="mb-2"
           />
           <p>すすきの</p>
           <v-img
             src="https://t3.ftcdn.net/jpg/01/61/05/40/240_F_161054069_eli0dRy1tBpD2rbsCRGJodcxaVaEz7PT.jpg"
             contain
-            height="120"
+            height="100"
+            class="mb-2"
           />
           <p>お寿司</p>
           <v-img
             src="https://t3.ftcdn.net/jpg/03/81/43/70/240_F_381437010_oZDwOuXC4olRWJ0OC92av7pQwPrTeIIJ.jpg"
             contain
-            height="120"
+            height="100"
+            class="mb-2"
           />
           <p>スープカレー</p>
           <v-img
             src="https://t4.ftcdn.net/jpg/03/28/80/81/240_F_328808129_neOE4SXeDmd87zzFGc0p1aF5jxZFvlyY.jpg"
             contain
-            height="120"
+            height="100"
+            class="mb-2"
           />
           <p>オムカレー</p>
           <v-img
             src="https://www.hokkaido-airports.com/ja/new-chitose/assets/pages/business/press/download/00_01.jpg"
             contain
-            height="120"
+            height="100"
+            class="mb-2"
           />
           <p>新千歳空港</p>
 
