@@ -6,7 +6,7 @@
       </v-card-title>
 
       <v-row>
-        <v-col cols="4" class="d-flex flex-column align-center">
+        <v-col cols="3" class="d-flex flex-column align-center">
           <v-img
             src="https://as1.ftcdn.net/v2/jpg/03/09/06/72/1000_F_309067262_lPhLvRrf0q3l99lKahpD0rFpb66m6kXi.jpg"
             contain
@@ -51,7 +51,7 @@
         <p>美瑛の青い池</p>
         </v-col>
 
-        <v-col cols="4" class="d-flex flex-column justify-center">
+        <v-col cols="6" class="d-flex flex-column justify-center">
           <ul class="time-list">
             <p>1日目</p>
             <li>7:00：羽田空港を出発、飛行機で新千歳空港へ移動</li>
@@ -92,7 +92,7 @@
           </ul>
         </v-col>
 
-        <v-col cols="4" class="d-flex flex-column align-center">
+        <v-col cols="3" class="d-flex flex-column align-center">
           <v-img
             src="https://t3.ftcdn.net/jpg/04/87/46/56/240_F_487465674_XrpA9WBVOiYqkNxr9jA3m5zBZC30ZRPe.jpg"
             contain
