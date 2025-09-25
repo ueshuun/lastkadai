@@ -129,7 +129,7 @@
   list-style: none;
   padding: 0;
   margin: 0;
-  text-align: left;
+  text-align: center;
 }
 .time-list li {
   margin: 4px 0;
