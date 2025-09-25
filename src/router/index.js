@@ -22,6 +22,7 @@ import HawaiiPlanView from '@/views/HawaiiPlanView.vue'
 import KoreaPlanView from '@/views/KoreaPlanView.vue'
 import ItalyPlanView from '@/views/ItalyPlanView.vue'
 import SpainPlanView from '@/views/SpainPlanView.vue'
+import ChatSupportView from '@/views/ChatSupportView.vue' 
 
 Vue.use(VueRouter)
 
@@ -135,6 +136,11 @@ const routes = [
     path: '/SpainPlan',
     name: 'SpainPlan',
     component: SpainPlanView
+  },
+   {
+    path: '/ChatSupport',
+    name: 'ChatSupport',
+    component: ChatSupportView
   }
 ]
 

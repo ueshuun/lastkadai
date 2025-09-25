@@ -205,7 +205,7 @@
       </v-container>
     
     </v-footer>
-    
+    <ChatSupport />
 
   </v-container>
 </template>
@@ -213,8 +213,13 @@
 
 <script>
 import axios from "axios";
+import ChatSupport from "./ChatSupportView.vue";
+
 
 export default {
+  components: {
+    ChatSupport, 
+  },
   data() {
     return {
       startPlace: "",

@@ -32,10 +32,6 @@
         <v-icon>mdi-thumb-up</v-icon>
       </v-btn>
 
-      <v-btn text to="/Customer" tag="router-link" color="white">
-        <span>Q&A</span>
-        <v-icon>mdi-chat-question</v-icon>
-      </v-btn>
 
     </v-app-bar>
 
