@@ -37,7 +37,7 @@
           </h2>
           <v-card
             class="pa-3 mb-3"
-            height="60%"
+            height="67%"
             style="overflow-y:auto; border-radius: 12px; background: white;"
             ref="chatArea"
           >
