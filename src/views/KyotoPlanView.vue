@@ -6,37 +6,40 @@
       </v-card-title>
 
       <v-row>
-        <v-col cols="4" class="d-flex flex-column align-center">
+        <v-col cols="3" class="d-flex flex-column align-center">
           <v-img
             src="https://t3.ftcdn.net/jpg/01/94/24/32/240_F_194243258_FmeqAIGbnc3AGmmg48M3TAFlu1340Mo6.jpg"
             contain
-            height="120"
-            class="mb-4"
+            height="100"
+            class="mb-2"
           />
           <p>清水寺</p>
           <v-img
             src="https://t3.ftcdn.net/jpg/04/80/56/76/240_F_480567625_tbnEJVEjm39YrQqs9F3a2wT0tLtPVCcT.jpg"
             contain
-            height="120"
+            height="100"
+            class="mb-2"
           />
           <p>祇園</p>
           <v-img
             src="https://t3.ftcdn.net/jpg/05/35/12/74/240_F_535127478_AnyH4M6K99qddw2OFtZ9RUVHf5creOun.jpg"
             contain
-            height="120"
+            height="100"
+            class="mb-2" 
           />
           <p>金閣寺</p>
           <v-img
             src="https://t4.ftcdn.net/jpg/05/32/86/83/240_F_532868302_emG5dCGEO45fCgkobiwafKtPxqvAc2nx.jpg"
             contain
-            height="120"
+            height="100"
+            class="mb-2"  
           />
           <p>お蕎麦</p>
          
          
         </v-col>
 
-        <v-col cols="4" class="d-flex flex-column justify-center">
+        <v-col cols="6" class="d-flex flex-column justify-center">
           <ul class="time-list">
      <p>1日目</p>
     <li>7:00：東京駅を出発、新幹線で京都へ移動</li>
@@ -62,30 +65,33 @@
           </ul>
         </v-col>
 
-        <v-col cols="4" class="d-flex flex-column align-center">
+        <v-col cols="3" class="d-flex flex-column align-center">
           <v-img
             src="https://t3.ftcdn.net/jpg/01/75/55/00/240_F_175550063_XoBrM6nrS6QFJ3NexKi7fNxXHbPROyNl.jpg"
             contain
-            height="120"
-            class="mb-4"
+            height="100"
+            class="mb-2"
           />
           <p>湯豆腐</p>
           <v-img
             src="https://t3.ftcdn.net/jpg/02/51/36/52/240_F_251365297_v3EAZaDCoJFSLQVAUbh6vlKf5nBcBtzx.jpg"
             contain
-            height="120"
+            height="100"
+            class="mb-2"
           />
           <p>鴨川</p>
           <v-img
             src="https://t3.ftcdn.net/jpg/01/34/41/36/240_F_134413604_cBrItiTkYi9wcNl9cL5Ff6fEicE1LSFo.jpg"
             contain
-            height="120"
+            height="100"
+            class="mb-2"
           />
           <p>嵐山</p>
           <v-img
             src="https://as1.ftcdn.net/v2/jpg/02/77/64/66/1000_F_277646693_luUonQ5LUOZGPH9pT3fyChM0zuSK4u6f.jpg"
             contain
-            height="120"
+            height="100"
+            class="mb-2"
           />
           <p>天龍寺</p>
        

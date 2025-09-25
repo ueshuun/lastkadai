@@ -6,42 +6,46 @@
       </v-card-title>
 
       <v-row>
-        <v-col cols="4" class="d-flex flex-column align-center">
+        <v-col cols="3" class="d-flex flex-column align-center">
           <v-img
             src="https://t3.ftcdn.net/jpg/02/82/38/10/240_F_282381041_O7uUYn2MgQHcltBSnRnVf2daOZDR9nmO.jpg"
             contain
-            height="120"
-            class="mb-4"
+            height="100"
+            class="mb-2"
           />
           <p>コロッセオ</p>
           <v-img
             src="https://t4.ftcdn.net/jpg/01/09/14/93/240_F_109149332_D0TOFEq71ali74RutI4Ims0A87tF2QF5.jpg"
             contain
-            height="120"
+            height="100"
+            class="mb-2"
           />
           <p>カルボナーラ</p>
           <v-img
             src="https://as2.ftcdn.net/v2/jpg/04/04/22/29/1000_F_404222988_U0gXg5DIPvMseCFMxB9NuGOZH5x9jk93.jpg"
             contain
-            height="120"
+            height="100"
+            class="mb-2"
           />
           <p>サンタ・マリア・デル・フィオーレ大聖堂</p>
           <v-img
             src="https://t3.ftcdn.net/jpg/04/46/75/48/240_F_446754836_LhXJeVtbIvgNGu5G67TlgNU9rpm584dK.jpg"
             contain
-            height="120"
+            height="100"
+            class="mb-2"
           />
           <p>ヴェッキオ橋</p>
           <v-img
             src="https://t3.ftcdn.net/jpg/10/16/95/86/240_F_1016958605_Gb9ZzL5z8C21SChE14ujiZ0JK7MIXtDh.jpg"
             contain
-            height="120"
+            height="100"
+            class="mb-2"
           />
           <p>バチカン市国</p>
          
         </v-col>
 
-        <v-col cols="4" class="d-flex flex-column justify-center">
+        <v-col cols="6" class="d-flex flex-column justify-center">
           <ul class="time-list">
                     <p>1日目（ローマ）</p>
             <li>10:00：ローマ・フィウミチーノ空港到着</li>
@@ -75,36 +79,40 @@
           </ul>
         </v-col>
 
-        <v-col cols="4" class="d-flex flex-column align-center">
+        <v-col cols="3" class="d-flex flex-column align-center">
           <v-img
             src="https://t3.ftcdn.net/jpg/01/57/09/76/240_F_157097669_0JjS0n3TIQXsotJB5sXIyzlxGSxixFho.jpg"
             contain
-            height="120"
-            class="mb-4"
+            height="100"
+            class="mb-2"
           />
           <p> トレヴィの泉</p>
           <v-img
             src="https://t3.ftcdn.net/jpg/01/07/27/76/240_F_107277649_fFdlfQY1uxuA7geMxbgy8dPjjuCR4rXa.jpg"
             contain
-            height="120"
+            height="100"
+            class="mb-2"
           />
           <p>フィレンツェ</p>
           <v-img
             src="https://t4.ftcdn.net/jpg/04/93/50/47/240_F_493504797_gtjljiLPuvOM1kIgJKepvkkP9XzTX2FI.jpg"
             contain
-            height="120"
+            height="100"
+            class="mb-2"
           />
           <p>ウフィツィ美術館</p>
           <v-img
             src="https://t4.ftcdn.net/jpg/01/44/42/91/240_F_144429177_9rRLejhVbYGTfZLdBCXu88eQZ6H9V9BU.jpg"
             contain
-            height="120"
+            height="100"
+            class="mb-2"
           />
           <p>イタリアンディナー</p>
           <v-img
             src="https://t3.ftcdn.net/jpg/02/66/68/94/240_F_266689449_cYL716S98k2MIt5A67Hbe0COR9bwa2u2.jpg"
             contain
-            height="120"
+            height="100"
+            class="mb-2"
           />
           <p>ナヴォ―ナ広場</p>
         

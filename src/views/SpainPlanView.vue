@@ -6,43 +6,47 @@
       </v-card-title>
 
       <v-row>
-        <v-col cols="4" class="d-flex flex-column align-center">
+        <v-col cols="3" class="d-flex flex-column align-center">
           <v-img
             src="https://t3.ftcdn.net/jpg/02/37/62/70/240_F_237627042_Z8L0Ll7mmZqASJa2kqsn4ym2xvyb0ZEP.jpg"
             contain
-            height="120"
-            class="mb-4"
+            height="100"
+            class="mb-2"
           />
           <p>マヨール広場
           </p>
           <v-img
             src="https://t4.ftcdn.net/jpg/00/83/91/39/240_F_83913965_MdPt8k5xeVa4sIx0zuajUTGGtpqQijkv.jpg"
             contain
-            height="120"
+            height="100"
+            class="mb-2"
           />
           <p>プラド美術館</p>
           <v-img
             src="https://t4.ftcdn.net/jpg/01/05/50/25/240_F_105502541_TfyTpCzIM76NYpTKb2epk1p4ZzARzC3J.jpg"
             contain
-            height="120"
+            height="100"
+            class="mb-2"
           />
           <p>サクラダファミリア</p>
           <v-img
             src="https://t4.ftcdn.net/jpg/00/47/26/25/240_F_47262519_JBji4zbizuOybaNXaBFAlYyawW3zx066.jpg"
             contain
-            height="120"
+            height="100"
+            class="mb-2"
           />
           <p>グエル公園</p>
           <v-img
             src="https://t4.ftcdn.net/jpg/11/74/91/11/240_F_1174911111_I68bIhqs04t3sdUUxcMATAhJ6EZXvOCq.jpg"
             contain
-            height="120"
+            height="100"
+            class="mb-2"
           />
           <p>レティ―ロ公園</p>
          
         </v-col>
 
-        <v-col cols="4" class="d-flex flex-column justify-center">
+        <v-col cols="6" class="d-flex flex-column justify-center">
           <ul class="time-list">
                     <p>1日目（マドリード）</p>
         <li>10:00：マドリード・バラハス空港到着</li>
@@ -77,36 +81,40 @@
           </ul>
         </v-col>
 
-        <v-col cols="4" class="d-flex flex-column align-center">
+        <v-col cols="3" class="d-flex flex-column align-center">
           <v-img
             src="https://t3.ftcdn.net/jpg/13/67/29/14/240_F_1367291497_RTorClm4saYjXQvgxdJlSwGWBJKS8EdN.jpg"
             contain
-            height="120"
-            class="mb-4"
+            height="100"
+            class="mb-2"
           />
           <p> アルムデナ大聖堂</p>
           <v-img
             src="https://t3.ftcdn.net/jpg/05/31/67/34/240_F_531673477_74NtxRbGyo1hLoFC2rX1hPQ6wyHPYRql.jpg"
             contain
-            height="120"
+            height="100"
+            class="mb-2"
           />
           <p>タパス</p>
           <v-img
             src="https://t3.ftcdn.net/jpg/13/74/28/94/240_F_1374289478_V1qA14g0Qe3QbFx0we04WFD5AsLGlUrV.jpg"
             contain
-            height="120"
+            height="100"
+            class="mb-2"
           />
           <p>パエリア</p>
           <v-img
             src="https://t3.ftcdn.net/jpg/02/96/32/96/240_F_296329621_pbJvBmbLaBp98mQG7rADzejE5Ebxx4Bc.jpg"
             contain
-            height="120"
+            height="100"
+            class="mb-2"
           />
           <p>カサ・バトリョ</p>
           <v-img
             src="https://media.istockphoto.com/id/459256067/ja/%E3%82%B9%E3%83%88%E3%83%83%E3%82%AF%E3%83%95%E3%82%A9%E3%83%88/%E3%83%9E%E3%83%89%E3%83%AA%E3%83%BC%E3%83%89-%E3%82%B9%E3%83%9A%E3%82%A4%E3%83%B3%E3%82%B5%E3%83%B3%E3%83%9F%E3%82%B2%E3%83%AB%E5%B8%82%E5%A0%B4.jpg?s=612x612&w=0&k=20&c=Zj25ngfTdgWwrwqbwGyrWrjsLtxRXkCsBRmCXWFmJ-k="
             contain
-            height="120"
+            height="100"
+            class="mb-2"
           />
           <p>サンミゲル広場</p>
         

@@ -6,11 +6,12 @@
       </v-card-title>
 
       <v-row>
-        <v-col cols="4" class="d-flex flex-column align-center" >
+        <v-col cols="3" class="d-flex flex-column align-center" >
           <v-img
             src="https://t3.ftcdn.net/jpg/03/34/78/10/240_F_334781068_goKODR2ASoT1iRkuKE0viMeBivQKwWjS.jpg"
             contain
-            height="120"
+            height="100"
+            class="mb-2"
           />
           <p>ワイキキビーチ</p>
           <v-img
@@ -22,25 +23,28 @@
           <v-img
             src="https://t4.ftcdn.net/jpg/02/93/57/29/240_F_293572963_M05gvwXcV8QKHKKclwLrtbPLR9apd4mp.jpg"
             contain
-            height="120"
+            height="100"
+            class="mb-2"
           />
           <p>ダイヤモンドヘッド</p>
           <v-img
             src="https://t4.ftcdn.net/jpg/08/19/20/47/240_F_819204719_4X7mg4tdlFE3aUEEre6Rv4tJfzgXYrKK.jpg"
             contain
-            height="120"
+            height="100"
+            class="mb-2"
           />
           <p>マラサダ</p>
           <v-img
             src="https://t4.ftcdn.net/jpg/04/24/07/93/240_F_424079347_CaRzD0joly1QGN5SCBhiDRA1YGJXxvH0.jpg"
             contain
-            height="120"
+            height="100"
+            class="mb-2"
           />
           <p>カメハメハ大王</p>
         
         </v-col>
 
-        <v-col cols="4" class="d-flex flex-column justify-center">
+        <v-col cols="6" class="d-flex flex-column justify-center">
           <ul class="time-list">
                     <p>1日目</p>
             <li>7:00：羽田空港を出発、ホノルルへ移動（直行便）</li>
@@ -74,36 +78,40 @@
           </ul>
         </v-col>
 
-        <v-col cols="4" class="d-flex flex-column align-center">
+        <v-col cols="3" class="d-flex flex-column align-center">
           <v-img
             src="https://t3.ftcdn.net/jpg/04/48/39/84/240_F_448398427_e67tUJ8yCPvIYPfMSRufWTu3VnReHDtw.jpg"
             contain
-            height="120"
-            class="mb-4"
+            height="100"
+            class="mb-2"
           />
           <p> ハワイアンランチ</p>
           <v-img
             src="https://t3.ftcdn.net/jpg/04/36/56/86/240_F_436568645_RXUM1FvnjDoPvCNOs04MrHeiW9GgS1zj.jpg"
             contain
-            height="120"
+            height="100"
+            class="mb-2"
           />
           <p>カラカウア通り</p>
           <v-img
             src="https://t3.ftcdn.net/jpg/01/28/46/30/240_F_128463048_yysdEmrYudvHKyInN0Jk5rwfr0wCa1aP.jpg"
             contain
-            height="120"
+            height="100"
+            class="mb-2"
           />
           <p>ハナウマ湾</p>
           <v-img
             src="https://t4.ftcdn.net/jpg/01/63/71/77/240_F_163717774_3KqQddRsdSK5tCUpobJ2gCpTCOvWZf4T.jpg"
             contain
-            height="120"
+            height="100"
+            class="mb-2"
           />
           <p>カイルアビーチ</p>
           <v-img
             src="https://t3.ftcdn.net/jpg/05/69/16/98/240_F_569169875_OpAXT2NLGDiC6qUwEVAtRBTjl1j6K6eg.jpg"
             contain
-            height="120"
+            height="100"
+            class="mb-2"
           />
           <p>ロコモコ</p>
 
