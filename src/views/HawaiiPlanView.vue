@@ -6,12 +6,11 @@
       </v-card-title>
 
       <v-row>
-        <v-col cols="4" class="d-flex flex-column align-center">
+        <v-col cols="4" class="d-flex flex-column align-center" >
           <v-img
             src="https://t3.ftcdn.net/jpg/03/34/78/10/240_F_334781068_goKODR2ASoT1iRkuKE0viMeBivQKwWjS.jpg"
             contain
             height="120"
-            class="mb-4"
           />
           <p>ワイキキビーチ</p>
           <v-img

@@ -87,25 +87,25 @@
       <v-row justify="center" align="center" dense>
         <v-col cols="3">
           <router-link to="/Hokkaido">
-            <v-img src="https://t4.ftcdn.net/jpg/02/91/38/97/240_F_291389777_cuGvQhUPXd7BC6vJd7L4pkKbjPoImTeF.jpg" height="200px" rounded />
+            <v-img src="https://t4.ftcdn.net/jpg/02/91/38/97/240_F_291389777_cuGvQhUPXd7BC6vJd7L4pkKbjPoImTeF.jpg" height="200px" class="my-rounded"/>
           </router-link>
           <p class="text-center mt-2">北海道</p>
         </v-col>
         <v-col cols="3">
           <router-link to="/Osaka">
-            <v-img src="https://as1.ftcdn.net/v2/jpg/11/76/70/10/1000_F_1176701002_OOTSgbtqWMr8jdngQKNqCmh5tuh2sioS.jpg" height="200px" />
+            <v-img src="https://as1.ftcdn.net/v2/jpg/11/76/70/10/1000_F_1176701002_OOTSgbtqWMr8jdngQKNqCmh5tuh2sioS.jpg" height="200px" class="my-rounded"/>
           </router-link>
           <p class="text-center mt-2">大阪</p>
         </v-col>
         <v-col cols="3">
           <router-link to="/Kyoto">
-            <v-img src="https://64.media.tumblr.com/5084eb6dc9b812bdec7a59c99a44ac24/tumblr_o20od5J4nP1t4k8xoo1_1280.jpg" height="200px" />
+            <v-img src="https://64.media.tumblr.com/5084eb6dc9b812bdec7a59c99a44ac24/tumblr_o20od5J4nP1t4k8xoo1_1280.jpg" height="200px" class="my-rounded"/>
           </router-link>
           <p class="text-center mt-2">京都</p>
         </v-col>
         <v-col md="3">
           <router-link to="/Okinawa">
-            <v-img src="https://t3.ftcdn.net/jpg/00/71/14/86/240_F_71148658_q2Nnw7AiT9BJ1XCyEl84yeRKDMsOAC1r.jpg" height="200px" />
+            <v-img src="https://t3.ftcdn.net/jpg/00/71/14/86/240_F_71148658_q2Nnw7AiT9BJ1XCyEl84yeRKDMsOAC1r.jpg" height="200px" class="my-rounded"/>
           </router-link>
           <p class="text-center mt-2">沖縄</p>
         </v-col>
@@ -117,7 +117,7 @@
       <h3 class="mb-6">プロモーション</h3>
       <v-row justify="center" align="center" dense>
        <v-col md="4">
-  <a href="https://victorious-ocean-034401f1e.1.azurestaticapps.net/" target="_blank">
+  <a href="https://victorious-ocean-034401f1e.1.azurestaticapps.net/" target="_blank" class="my-rounded">
     <v-img
       src="@/assets/ushop.png"
       height="200"
@@ -127,7 +127,7 @@
 </v-col>
 
 <v-col md="4">
-  <a href="https://blue-dune-01efe8600.2.azurestaticapps.net/" target="_blank">
+  <a href="https://blue-dune-01efe8600.2.azurestaticapps.net/" target="_blank" class="my-rounded">
     <v-img
       src="@/assets/pork.png"
       height="200"
@@ -137,7 +137,7 @@
 </v-col>
 
 <v-col md="4">
-  <a href="https://blue-dune-01efe8600.2.azurestaticapps.net/" target="_blank">
+  <a href="https://blue-dune-01efe8600.2.azurestaticapps.net/" target="_blank" class="my-rounded">
     <v-img
       src="@/assets/MoneyBoard.png"
       height="200"
@@ -153,25 +153,25 @@
       <v-row justify="center" align="center" dense>
         <v-col md="3">
           <router-link to="/Hawaii">
-            <v-img src="https://ruimaeda.com/wp-content/uploads/cache/2000_2018-12-06_16-11-04_730/274870745.jpg" height="200px" />
+            <v-img src="https://ruimaeda.com/wp-content/uploads/cache/2000_2018-12-06_16-11-04_730/274870745.jpg" height="200px" class="my-rounded"/>
           </router-link>
           <p class="text-center mt-2">ハワイ</p>
         </v-col>
         <v-col md="3">
           <router-link to="/Korea">
-            <v-img src="https://cdn.pixabay.com/photo/2022/08/05/05/59/korea-7366040_1280.jpg" height="200px" />
+            <v-img src="https://cdn.pixabay.com/photo/2022/08/05/05/59/korea-7366040_1280.jpg" height="200px" class="my-rounded"/>
           </router-link>
           <p class="text-center mt-2">韓国</p>
         </v-col>
         <v-col md="3">
           <router-link to="/Italy">
-            <v-img src="https://t3.ftcdn.net/jpg/02/82/38/10/360_F_282381041_O7uUYn2MgQHcltBSnRnVf2daOZDR9nmO.webp" height="200px" />
+            <v-img src="https://t3.ftcdn.net/jpg/02/82/38/10/360_F_282381041_O7uUYn2MgQHcltBSnRnVf2daOZDR9nmO.webp" height="200px" class="my-rounded"/>
           </router-link>
           <p class="text-center mt-2">イタリア</p>
         </v-col>
         <v-col md="3">
           <router-link to="/Spain">
-            <v-img src="https://t4.ftcdn.net/jpg/01/41/32/23/240_F_141322312_k0KBHFfcs34JepipgmqmUPZjesGtIqvt.jpg" height="200px" />
+            <v-img src="https://t4.ftcdn.net/jpg/01/41/32/23/240_F_141322312_k0KBHFfcs34JepipgmqmUPZjesGtIqvt.jpg" height="200px" class="my-rounded"/>
           </router-link>
           <p class="text-center mt-2">スペイン</p>
         </v-col>
@@ -255,3 +255,8 @@ const res = await axios.post("https://m3h-ueda-ai.azurewebsites.net/api/Function
 };
 </script>
 
+<style>
+.my-rounded {
+  border-radius: 20px; /* 数値を変えて丸みを調整 */
+}
+</style>
