@@ -17,7 +17,7 @@
     <div v-if="show" class="chat-corner">
       <v-container class="fill-height d-flex align-center justify-center">
         <v-card
-          class="pa-4"
+          class="pa-4 chat-box"
           style="max-width: 600px; width: 100%; height: 100%;
                  box-shadow: 0 10px 30px rgba(0,0,0,0.1);
                  border-radius: 16px; background: white;"
@@ -147,8 +147,12 @@ export default {
   bottom: 0;
   right: 0;
   width: 50%;  
-  height: 600px;  
+  height: 500px;  
   z-index: 1000;
+}
+
+.chat-box {
+  border: 5px solid rgb(0, 157, 255) !important;
 }
 
 </style>
