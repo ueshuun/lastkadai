@@ -147,7 +147,7 @@ export default {
   bottom: 0;
   right: 0;
   width: 50%;  
-  height: 500px;  
+  height: 85%;  
   z-index: 1000;
 }
 
